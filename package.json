@@ -1,0 +1,24 @@
+{
+  "name": "youtube-redesign-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemanjaglumac/youtube-redesign-exercise.git"
+  },
+  "author": "Nemanja Glumac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemanjaglumac/youtube-redesign-exercise/issues"
+  },
+  "homepage": "https://github.com/nemanjaglumac/youtube-redesign-exercise#readme",
+  "dependencies": {
+    "autoprefixer": "^8.1.0",
+    "foundation-sites": "^6.4.4-rc1",
+    "node-sass": "^4.7.2"
+  }
+}
